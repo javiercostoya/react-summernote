@@ -18158,8 +18158,7 @@ var ReactSummernote = function (_Component) {
         onKeyup: props.onKeyUp,
         onKeydown: props.onKeyDown,
         onPaste: props.onPaste,
-        onChange: props.onChange,
-        onImageUpload: this.onImageUpload
+        onChange: props.onChange
       };
     }
   }]);
